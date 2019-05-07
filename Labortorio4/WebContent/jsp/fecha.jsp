@@ -1,0 +1,1 @@
+La fecha es : <%= new java.util.Date() %>
